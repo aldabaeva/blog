@@ -43,7 +43,5 @@
 
 ---
 
-## 👩‍💻 Автор
-Разработчик: @olga_apex
-Опыт: 5+ лет в Oracle APEX, 7+ лет в веб-разработке
+## 👩‍💻 Контакты
 [personal@aldabaeva.com](mailto:personal@aldabaeva.com) | [Telegram](https://t.me/skiperkrut) | [aldabaeva.com](https://aldabaeva.com)
