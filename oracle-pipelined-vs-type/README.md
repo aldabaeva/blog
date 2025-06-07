@@ -30,7 +30,7 @@
    @sql/01_create_types.sql
    @sql/02_create_pipelined_function.sql
    @sql/03_select_from_function.sql
-   @04_drop_all.sql
+   @sql/04_drop_all.sql
 
 
 ---
