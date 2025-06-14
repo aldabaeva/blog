@@ -1,1 +1,1 @@
-﻿
+﻿SET AUTOTRACE ON SELECT * FROM demo_products WHERE NAME LIKE 'Товар%';

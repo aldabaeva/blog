@@ -18,7 +18,7 @@
 
 ## Материалы к проекту
 
-Можно почитать в [Дзен](https://m.dzen.ru/away?to=https%3A%2F%2Fgithub.com%2Faldabaeva%2Fblog%2Ftree%2Fmain%2Foracle-pipelined-vs-type) | [Teletype]()
+Можно почитать в [[Дзен]](https://m.dzen.ru/a/aE01qModsG8Hoykm) | [Teletype](https://teletype.in/@apworks/2XrCjwEKU5d)
 
 
 ## 👩‍💻 Контакты
