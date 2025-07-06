@@ -13,16 +13,11 @@ CREATE TABLE users (
     CONSTRAINT login_min_length CHECK (LENGTH(login) >= 3)
 );
 -- Add comments to the table 
-comment on table USERS
-  is 'Таблицы пользователей';
+comment on table USERS is 'Таблицы пользователей';
 -- Add comments to the columns 
-comment on column USERS.userid
-  is 'Идентификатор пользователя';
-comment on column USERS.login
-  is 'Логин пользователя';
-comment on column USERS.created_at
-  is 'Дата создания пользователя';
-
+comment on column USERS.userid      is 'Идентификатор пользователя';
+comment on column USERS.login 		is 'Логин пользователя';
+comment on column USERS.created_at 	is 'Дата создания пользователя';
 
 /* Функция получения id пользователя */
 CREATE OR REPLACE FUNCTION f_get_user_id(p_login IN VARCHAR2)
